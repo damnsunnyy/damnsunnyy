@@ -6,7 +6,7 @@
 
 MCA candidate in Pune building across applied machine learning, web development, and iOS. I bring a client-focused approach to project work: clarify the request, coordinate the implementation, and check the details before delivery.
 
-**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani95@gmail.com](mailto:shubham.meghani95@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
+**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · [Apply Desk](https://damnsunnyy.github.io/Portfolio/job-hunt/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
 
 ### Project highlights
 
@@ -31,7 +31,7 @@ MCA candidate in Pune building across applied machine learning, web development,
 - [Portfolio](https://damnsunnyy.github.io/Portfolio/)
 - [GitHub repositories](https://github.com/damnsunnyy?tab=repositories)
 - [LinkedIn](https://linkedin.com/in/shubham-meghani/)
-- [Email](mailto:shubham.meghani95@gmail.com)
+- [Email](mailto:shubham.meghani.work@gmail.com)
 
 ---
 
