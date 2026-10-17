@@ -20,10 +20,12 @@ I build across machine learning and full-stack development. My projects range fr
 | [DocsFlow](https://github.com/damnsunnyy/google-docs-clone) | Real-time collaborative document editor | MERN, Socket.IO |
 | [Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant with a live dashboard | Python, Faster Whisper, Ollama, React, Electron |
 | [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | SwiftUI motorcycle group-riding prototype with shared location | SwiftUI, Firestore, MapKit |
+| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) | Interactive custom HTML parser and searchable DOM tree | JavaScript |
+| [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and export | React, Express, MongoDB |
 
 ### Tools I use
 
-`Python` · `PyTorch` · `scikit-learn` · `JavaScript` · `React` · `Django REST` · `Java` · `Spring` · `Node.js` · `SQLite` · `SwiftUI` · `Firebase` · `Electron`
+`Python` · `PyTorch` · `scikit-learn` · `JavaScript` · `React` · `Django REST` · `Java` · `Spring` · `Node.js` · `SQLite` · `SwiftUI` · `Firebase` · `Electron` · `MongoDB`
 
 ### Find me
 
