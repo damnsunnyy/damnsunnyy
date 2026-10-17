@@ -6,7 +6,7 @@
 
 MCA candidate in Pune building across applied machine learning, web development, and iOS. I bring a client-focused approach to project work: clarify the request, coordinate the implementation, and check the details before delivery.
 
-**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · [Apply Desk live app](https://damnsunnyy.github.io/ApplyDesk/) · [Apply Desk source](https://github.com/damnsunnyy/ApplyDesk) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
+**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
 
 ### Project highlights
 
