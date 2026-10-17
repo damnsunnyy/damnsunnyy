@@ -2,7 +2,7 @@
   <img src="assets/profile-banner.svg" alt="Shubham — software, data, and machine learning projects" width="100%" />
 </div>
 
-## Hi, I'm Shubham
+## Hi, I’m Shubham Meghani
 
 I build across machine learning and full-stack development. My projects range from a PyTorch dog-breed classifier and Java resume matcher to browser-based data tools, an on-device voice assistant, and a native group-riding app.
 
@@ -29,6 +29,8 @@ I build across machine learning and full-stack development. My projects range fr
 
 - [Portfolio](https://damnsunnyy.github.io/Portfolio/)
 - [GitHub repositories](https://github.com/damnsunnyy?tab=repositories)
+- [LinkedIn](https://linkedin.com/in/shubham-meghani/)
+- [Email](mailto:shubham.meghani95@gmail.com)
 
 ---
 
