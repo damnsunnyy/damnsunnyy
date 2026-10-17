@@ -1,31 +1,30 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Shubham — software, data, and machine learning projects" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Shubham Meghani — software, data, and machine learning projects" width="100%" />
 </div>
 
 ## Hi, I’m Shubham Meghani
 
-I build across machine learning and full-stack development. My projects range from a PyTorch dog-breed classifier and Java resume matcher to browser-based data tools, an on-device voice assistant, and a native group-riding app.
+MCA candidate in Pune building across applied machine learning, web development, and iOS. I bring a client-focused approach to project work: clarify the request, coordinate the implementation, and check the details before delivery.
 
-**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · **Projects:** [Browse all repositories](https://github.com/damnsunnyy?tab=repositories)
+**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani95@gmail.com](mailto:shubham.meghani95@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
 
-### Recent projects
+### Project highlights
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [RepoRadar](https://github.com/damnsunnyy/RepoRadar) | Maps public GitHub projects, languages, and stars into a searchable profile explorer | JavaScript, GitHub REST API |
-| [SiteSentry](https://github.com/damnsunnyy/SiteSentry) | Crawls public sites carefully and explains baseline accessibility and discovery findings | Python, HTML parser |
-| [ModelBench](https://github.com/damnsunnyy/ModelBench) | Compares tabular ML models with leakage-safe pipelines and reproducible holdout/CV reports | Python, pandas, scikit-learn |
-| [InsightX](https://github.com/Shubham01-shubh/InsightX) | Collaborator project: explore and clean CSV datasets in a browser-based workspace | React, Django REST |
-| [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | Fine-grained image classification across 120 dog breeds | PyTorch, ResNet-18 |
-| [DocsFlow](https://github.com/damnsunnyy/google-docs-clone) | Real-time collaborative document editor | MERN, Socket.IO |
-| [Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant with a live dashboard | Python, Faster Whisper, Ollama, React, Electron |
-| [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | SwiftUI motorcycle group-riding prototype with shared location | SwiftUI, Firestore, MapKit |
-| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) | Interactive custom HTML parser and searchable DOM tree | JavaScript |
-| [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and export | React, Express, MongoDB |
+| [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class image classifier; 66.08% top-1 accuracy and 64.92% macro F1 on the official test split (single-run baseline) | Python, PyTorch, ResNet-18 |
+| [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant prototype with Faster Whisper, Ollama, desktop actions, and a live event dashboard | Python, FastAPI, React, Electron |
+| [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | In-progress iOS prototype for code-based motorcycle group rides and Firestore-backed ride state | SwiftUI, Firebase, Core Location, MapKit |
+| [RepoRadar](https://github.com/damnsunnyy/RepoRadar) · [Live demo](https://damnsunnyy.github.io/RepoRadar/) | Searchable map of public GitHub repositories, languages, and stars | JavaScript, GitHub REST API |
+| [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo](https://damnsunnyy.github.io/SiteSentry/) | Explainable accessibility and discoverability checks for supplied HTML | Python, HTML parser |
+| [ModelBench](https://github.com/damnsunnyy/ModelBench) · [Live demo](https://damnsunnyy.github.io/ModelBench/) | Browser-based tabular ML experiments with local data, holdout evaluation, and reproducible reports | Python, JavaScript, scikit-learn |
+| [InsightX](https://github.com/Shubham01-shubh/InsightX) | Collaborator project for exploring and cleaning CSV datasets in a browser workspace | React, Django REST |
+| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) · [Live demo](https://damnsunnyy.github.io/HTML-DOM-Visualizer/) | Interactive custom HTML parser and searchable DOM tree | JavaScript |
+| [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and CSV export; requires a configured API and MongoDB | React, Express, MongoDB |
 
-### Tools I use
+### Tools
 
-`Python` · `PyTorch` · `scikit-learn` · `JavaScript` · `React` · `Django REST` · `Java` · `Spring` · `Node.js` · `SQLite` · `SwiftUI` · `Firebase` · `Electron` · `MongoDB`
+`Python` · `PyTorch` · `scikit-learn` · `JavaScript` · `React` · `Django REST` · `Java` · `Node.js` · `MongoDB` · `SwiftUI` · `Firebase` · `Power BI` · `Git`
 
 ### Find me
 
