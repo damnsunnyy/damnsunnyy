@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 340" role="img" aria-labelledby="title description">
+  <title id="title">Shubham — software, data, and machine learning</title>
+  <desc id="description">A dark starfield with colorful floating technology keycaps around a central Shubham wordmark.</desc>
+  <defs>
+    <radialGradient id="glow"><stop stop-color="#263a2d"/><stop offset="1" stop-color="#101411" stop-opacity="0"/></radialGradient>
+    <linearGradient id="key" x2="0" y2="1"><stop stop-color="#364238"/><stop offset="1" stop-color="#1a231c"/></linearGradient>
+    <filter id="shadow" x="-.5" y="-.5" width="2" height="2"><feGaussianBlur stdDeviation="12"/></filter>
+  </defs>
+  <rect width="1280" height="340" rx="12" fill="#101411"/>
+  <ellipse cx="870" cy="168" rx="425" ry="245" fill="url(#glow)"/>
+  <g fill="#d9efc9" opacity=".72"><circle cx="40" cy="45" r="1.4"/><circle cx="192" cy="282" r="1"/><circle cx="374" cy="54" r="1.2"/><circle cx="594" cy="304" r="1"/><circle cx="1076" cy="37" r="1.5"/><circle cx="1236" cy="244" r="1"/><circle cx="1112" cy="304" r="1.1"/></g>
+  <text x="78" y="80" fill="#c2ef66" font-family="monospace" font-size="13" letter-spacing="4">SOFTWARE · DATA · MACHINE LEARNING</text>
+  <text x="72" y="198" fill="#edf1e8" font-family="Arial,sans-serif" font-size="88" font-weight="700" letter-spacing="-6">SHUBHAM</text>
+  <text x="80" y="249" fill="#a4b09f" font-family="monospace" font-size="13" letter-spacing="2">BUILDING USEFUL THINGS, IN PUBLIC</text>
+  <g opacity=".34" transform="translate(780 75) rotate(-13)"><ellipse cx="200" cy="115" rx="262" ry="115" fill="#c2ef66" opacity=".15" filter="url(#shadow)"/></g>
+  <g transform="translate(795 55) rotate(-13 205 120)">
+    <rect x="10" y="24" width="420" height="230" rx="22" fill="#c2ef66" opacity=".17"/>
+    <rect x="4" y="13" width="420" height="230" rx="20" fill="url(#key)" stroke="#82947f" stroke-opacity=".55"/>
+    <g font-family="monospace" font-weight="700" font-size="16" text-anchor="middle">
+      <g fill="#c2ef66"><rect x="22" y="31" width="52" height="44" rx="7"/><text x="48" y="60" fill="#15200f">Py</text></g>
+      <g fill="#7cced6"><rect x="83" y="31" width="52" height="44" rx="7"/><text x="109" y="60" fill="#102024">JS</text></g>
+      <g fill="#ec9a68"><rect x="144" y="31" width="52" height="44" rx="7"/><text x="170" y="60" fill="#28180d">ML</text></g>
+      <g fill="#c596d5"><rect x="205" y="31" width="52" height="44" rx="7"/><text x="231" y="60" fill="#201327">Re</text></g>
+      <g fill="#e2ca68"><rect x="266" y="31" width="52" height="44" rx="7"/><text x="292" y="60" fill="#211e0e">Dj</text></g>
+      <g fill="#85b6ec"><rect x="327" y="31" width="70" height="44" rx="7"/><text x="362" y="60" fill="#101e2b">SQL</text></g>
+      <g fill="#7cced6"><rect x="22" y="87" width="67" height="44" rx="7"/><text x="55" y="116" fill="#102024">API</text></g>
+      <g fill="#c2ef66"><rect x="98" y="87" width="52" height="44" rx="7"/><text x="124" y="116" fill="#15200f">CV</text></g>
+      <g fill="#ec9a68"><rect x="159" y="87" width="52" height="44" rx="7"/><text x="185" y="116" fill="#28180d">AI</text></g>
+      <g fill="#85b6ec"><rect x="220" y="87" width="52" height="44" rx="7"/><text x="246" y="116" fill="#101e2b">Go</text></g>
+      <g fill="#c596d5"><rect x="281" y="87" width="52" height="44" rx="7"/><text x="307" y="116" fill="#201327">DB</text></g>
+      <g fill="#e2ca68"><rect x="342" y="87" width="55" height="44" rx="7"/><text x="369" y="116" fill="#211e0e">{}</text></g>
+      <g fill="#839480"><rect x="22" y="143" width="52" height="44" rx="7"/><text x="48" y="172" fill="#121813">Git</text></g>
+      <g fill="#7cced6"><rect x="83" y="143" width="52" height="44" rx="7"/><text x="109" y="172" fill="#102024">UI</text></g>
+      <g fill="#c2ef66"><rect x="144" y="143" width="174" height="44" rx="7"/><text x="231" y="172" fill="#15200f">BUILD</text></g>
+      <g fill="#ec9a68"><rect x="327" y="143" width="70" height="44" rx="7"/><text x="362" y="172" fill="#28180d">↗</text></g>
+    </g>
+  </g>
+  <text x="80" y="310" fill="#687665" font-family="monospace" font-size="10" letter-spacing="2">DAMNSUNNYY · GITHUB</text>
+</svg>
