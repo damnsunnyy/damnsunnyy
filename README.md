@@ -6,12 +6,13 @@
 
 MCA candidate in Pune building across applied machine learning, web development, and iOS. I bring a client-focused approach to project work: clarify the request, coordinate the implementation, and check the details before delivery.
 
-**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · [Apply Desk](https://damnsunnyy.github.io/Portfolio/job-hunt/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
+**Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · [Apply Desk live app](https://damnsunnyy.github.io/ApplyDesk/) · [Apply Desk source](https://github.com/damnsunnyy/ApplyDesk) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
 
 ### Project highlights
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app](https://damnsunnyy.github.io/ApplyDesk/) | Private job-search workspace for finding roles, preparing tailored résumés, tracking applications, and optionally checking Gmail for reply signals | JavaScript, Supabase, Gmail API |
 | [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class image classifier; 66.08% top-1 accuracy and 64.92% macro F1 on the official test split (single-run baseline) | Python, PyTorch, ResNet-18 |
 | [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant prototype with Faster Whisper, Ollama, desktop actions, and a live event dashboard | Python, FastAPI, React, Electron |
 | [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | In-progress iOS prototype for code-based motorcycle group rides and Firestore-backed ride state | SwiftUI, Firebase, Core Location, MapKit |
