@@ -1,9 +1,9 @@
 <div align="center">
-  <a href="https://damnsunnyy.github.io/Portfolio/buildroom/">
-    <img src="assets/buildroom-preview.svg" alt="Enter Buildroom, Shubham Meghani’s interactive CSS 3D project space featuring full-stack, AI, machine learning, mobile, and developer-tool projects." width="100%" />
+  <a href="https://damnsunnyy.github.io/Portfolio/">
+    <img src="assets/buildroom-preview.svg" alt="Animated dark 3D project map for Shubham Meghani, featuring full-stack, AI, machine learning, mobile, and developer-tool projects." width="100%" />
   </a>
   <br />
-  <a href="https://damnsunnyy.github.io/Portfolio/buildroom/"><strong>↗ ENTER THE INTERACTIVE 3D BUILDROOM</strong></a>
+  <a href="https://damnsunnyy.github.io/Portfolio/"><strong>↗ OPEN THE PORTFOLIO</strong></a>
   <br /><sub>Rotate the project map · open live demos · inspect source and workflow signals</sub>
 </div>
 
@@ -13,7 +13,7 @@ MCA candidate in Pune building across full-stack applications, applied machine l
 
 **[Portfolio](https://damnsunnyy.github.io/Portfolio/)** · **[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)** · **[Email](mailto:shubham.meghani.work@gmail.com)** · **[LinkedIn](https://linkedin.com/in/shubham-meghani/)**
 
-The Buildroom is an original, interactive CSS 3D project map. GitHub shows its linked artwork as a static preview; click it to enter the rotatable version. Its workflow panel reads recent public GitHub Actions runs.
+The portfolio uses a dark, animated 3D project stage and presents ten featured projects with live previews. The Buildroom is also available as an interactive CSS 3D project map, with a read-only public workflow panel.
 
 ## Project strength and complexity
 
@@ -49,7 +49,7 @@ Projects are ranked within tiers by system scope, technical integration, complet
 | 4 | [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and export; run requires configured API and MongoDB |
 | 5 | [Full-Stack Todo App](https://github.com/damnsunnyy/TODO-APP) · [Live browser demo](https://damnsunnyy.github.io/TODO-APP/) | React task interface with Django REST and SQLite source setup |
 | 6 | [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | React catalog with search, genre filters, detail views, and browser-persistent watchlist |
-| 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Interactive portfolio with 3D keyboard, live project captures, and automated GitHub Pages deployment |
+| 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Dark animated portfolio with dimensional project previews, live captures, and automated GitHub Pages deployment |
 
 ## Explore live projects
 
