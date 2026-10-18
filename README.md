@@ -1,40 +1,23 @@
 <div align="center">
   <a href="https://damnsunnyy.github.io/Portfolio/">
-    <img src="assets/buildroom-preview.svg" alt="Animated dark 3D project map for Shubham Meghani, featuring full-stack, AI, machine learning, mobile, and developer-tool projects." width="100%" />
+    <img src="assets/buildroom-preview.svg" alt="Animated dark 3D project map for Shubham Meghani, featuring full-stack, AI, machine learning, mobile, and developer-tool projects. Click to open the portfolio." width="100%" />
   </a>
   <br />
-  <a href="https://damnsunnyy.github.io/Portfolio/"><strong>↗ OPEN THE PORTFOLIO</strong></a>
-  &nbsp;·&nbsp;
   <a href="https://damnsunnyy.github.io/Portfolio/buildroom/"><strong>↗ ENTER THE 3D BUILDROOM</strong></a>
-  <br /><sub>Choose a project · open its live demo · inspect the source</sub>
+  <br /><sub>Explore projects · open live demos · inspect the source</sub>
 </div>
 
 ## Shubham Meghani · Software Developer
 
 MCA candidate in Pune building full-stack applications, applied machine learning, developer tools, and iOS prototypes. I bring two months of client-focused web design experience and enjoy taking ideas from a clear problem to a working, documented project.
 
-**[Portfolio](https://damnsunnyy.github.io/Portfolio/)** · **[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)** · **[Email](mailto:shubham.meghani.work@gmail.com)** · **[LinkedIn](https://linkedin.com/in/shubham-meghani/)**
+**[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)**
 
 ### Jump around
 
-[Featured live projects](#featured-live-projects) · [Project rankings](#project-strength-and-complexity) · [Tools](#tools-i-use) · [Contact](#find-me)
+[Project rankings](#project-strength-and-complexity) · [Tools](#tools-i-use) · [Contact](#find-me)
 
-The portfolio presents ten featured projects in a dark, animated 3D layout. Open the [interactive Buildroom](https://damnsunnyy.github.io/Portfolio/buildroom/) to explore a separate CSS 3D project map and read-only public workflow signals.
-
-## Featured live projects
-
-Click a preview to open its live project. Each project title also links to its source.
-
-| [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app ↗](https://damnsunnyy.github.io/ApplyDesk/) | [ModelBench](https://github.com/damnsunnyy/ModelBench) · [Live lab ↗](https://damnsunnyy.github.io/ModelBench/) |
-|:---:|:---:|
-| <a href="https://damnsunnyy.github.io/ApplyDesk/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/applydesk-live.png" alt="Open the Apply Desk job search and application tracker" width="420" /></a> | <a href="https://damnsunnyy.github.io/ModelBench/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/modelbench.jpg" alt="Open the ModelBench machine learning lab" width="420" /></a> |
-| Role discovery, résumé preparation, and account-scoped tracking | Leakage-safe model comparison and portable experiment reports |
-| [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard ↗](https://damnsunnyy.github.io/RunScope/) | [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo ↗](https://damnsunnyy.github.io/SiteSentry/) |
-| <a href="https://damnsunnyy.github.io/RunScope/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/runscope-live.jpg" alt="Open the RunScope GitHub Actions dashboard" width="420" /></a> | <a href="https://damnsunnyy.github.io/SiteSentry/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/sitesentry.jpg" alt="Open the SiteSentry website quality scanner" width="420" /></a> |
-| Public GitHub Actions health metrics and workflow history | Explainable website audits with portable reports |
-| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) · [Live demo ↗](https://damnsunnyy.github.io/HTML-DOM-Visualizer/) | [RepoRadar](https://github.com/damnsunnyy/RepoRadar) · [Live demo ↗](https://damnsunnyy.github.io/RepoRadar/) |
-| <a href="https://damnsunnyy.github.io/HTML-DOM-Visualizer/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/dom-visualizer.jpg" alt="Open the custom HTML parser and DOM tree explorer" width="420" /></a> | <a href="https://damnsunnyy.github.io/RepoRadar/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/reporadar.jpg" alt="Open the GitHub repository explorer" width="420" /></a> |
-| Custom parser, searchable tree, and JSON export | Searchable profile explorer with language and repository filters |
+The portfolio presents ten featured projects in a dark, animated 3D layout. Its main project panel links directly to the featured live application.
 
 ## Project strength and complexity
 
@@ -77,7 +60,7 @@ Projects are grouped by system scope, technical integration, completeness, and v
 | 4 | [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and export; run requires configured API and MongoDB |
 | 5 | [Full-Stack Todo App](https://github.com/damnsunnyy/TODO-APP) · [Live browser demo](https://damnsunnyy.github.io/TODO-APP/) | React task interface with Django REST and SQLite source setup |
 | 6 | [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | React catalog with search, genre filters, detail views, and browser-persistent watchlist |
-| 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Dark animated portfolio with dimensional project previews, live captures, and automated GitHub Pages deployment |
+| 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) | Dark animated portfolio with dimensional project previews, live captures, and automated GitHub Pages deployment |
 
 </details>
 
@@ -91,7 +74,6 @@ Projects are grouped by system scope, technical integration, completeness, and v
 <details>
 <summary><strong>Find me</strong></summary>
 
-- [Portfolio](https://damnsunnyy.github.io/Portfolio/)
 - [GitHub repositories](https://github.com/damnsunnyy?tab=repositories)
 - [LinkedIn](https://linkedin.com/in/shubham-meghani/)
 - [Email](mailto:shubham.meghani.work@gmail.com)
