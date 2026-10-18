@@ -11,7 +11,7 @@
 
 MCA candidate in Pune building full-stack applications, applied machine learning, developer tools, and iOS prototypes. I bring two months of client-focused web design experience and enjoy taking ideas from a clear problem to a working, documented project.
 
-**[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)**
+**[Portfolio](https://damnsunnyy.github.io/Portfolio/)** · **[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)**
 
 ### Jump around
 
