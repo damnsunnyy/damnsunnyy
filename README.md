@@ -4,22 +4,44 @@
   </a>
   <br />
   <a href="https://damnsunnyy.github.io/Portfolio/"><strong>↗ OPEN THE PORTFOLIO</strong></a>
-  <br /><sub>Rotate the project map · open live demos · inspect source and workflow signals</sub>
+  &nbsp;·&nbsp;
+  <a href="https://damnsunnyy.github.io/Portfolio/buildroom/"><strong>↗ ENTER THE 3D BUILDROOM</strong></a>
+  <br /><sub>Choose a project · open its live demo · inspect the source</sub>
 </div>
 
 ## Shubham Meghani · Software Developer
 
-MCA candidate in Pune building across full-stack applications, applied machine learning, developer tools, and iOS prototypes. I bring two months of client-focused web design experience and enjoy taking ideas from a clear problem to a working, documented project.
+MCA candidate in Pune building full-stack applications, applied machine learning, developer tools, and iOS prototypes. I bring two months of client-focused web design experience and enjoy taking ideas from a clear problem to a working, documented project.
 
 **[Portfolio](https://damnsunnyy.github.io/Portfolio/)** · **[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)** · **[Email](mailto:shubham.meghani.work@gmail.com)** · **[LinkedIn](https://linkedin.com/in/shubham-meghani/)**
 
-The portfolio uses a dark, animated 3D project stage and presents ten featured projects with live previews. The Buildroom is also available as an interactive CSS 3D project map, with a read-only public workflow panel.
+### Jump around
+
+[Featured live projects](#featured-live-projects) · [Project rankings](#project-strength-and-complexity) · [Tools](#tools-i-use) · [Contact](#find-me)
+
+The portfolio presents ten featured projects in a dark, animated 3D layout. Open the [interactive Buildroom](https://damnsunnyy.github.io/Portfolio/buildroom/) to explore a separate CSS 3D project map and read-only public workflow signals.
+
+## Featured live projects
+
+Click a preview to open its live project. Each project title also links to its source.
+
+| [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app ↗](https://damnsunnyy.github.io/ApplyDesk/) | [ModelBench](https://github.com/damnsunnyy/ModelBench) · [Live lab ↗](https://damnsunnyy.github.io/ModelBench/) |
+|:---:|:---:|
+| <a href="https://damnsunnyy.github.io/ApplyDesk/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/applydesk-live.png" alt="Open the Apply Desk job search and application tracker" width="420" /></a> | <a href="https://damnsunnyy.github.io/ModelBench/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/modelbench.jpg" alt="Open the ModelBench machine learning lab" width="420" /></a> |
+| Role discovery, résumé preparation, and account-scoped tracking | Leakage-safe model comparison and portable experiment reports |
+| [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard ↗](https://damnsunnyy.github.io/RunScope/) | [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo ↗](https://damnsunnyy.github.io/SiteSentry/) |
+| <a href="https://damnsunnyy.github.io/RunScope/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/runscope-live.jpg" alt="Open the RunScope GitHub Actions dashboard" width="420" /></a> | <a href="https://damnsunnyy.github.io/SiteSentry/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/sitesentry.jpg" alt="Open the SiteSentry website quality scanner" width="420" /></a> |
+| Public GitHub Actions health metrics and workflow history | Explainable website audits with portable reports |
+| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) · [Live demo ↗](https://damnsunnyy.github.io/HTML-DOM-Visualizer/) | [RepoRadar](https://github.com/damnsunnyy/RepoRadar) · [Live demo ↗](https://damnsunnyy.github.io/RepoRadar/) |
+| <a href="https://damnsunnyy.github.io/HTML-DOM-Visualizer/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/dom-visualizer.jpg" alt="Open the custom HTML parser and DOM tree explorer" width="420" /></a> | <a href="https://damnsunnyy.github.io/RepoRadar/"><img src="https://raw.githubusercontent.com/damnsunnyy/Portfolio/main/assets/project-captures/reporadar.jpg" alt="Open the GitHub repository explorer" width="420" /></a> |
+| Custom parser, searchable tree, and JSON export | Searchable profile explorer with language and repository filters |
 
 ## Project strength and complexity
 
-Projects are ranked within tiers by system scope, technical integration, completeness, and verifiable evidence. The tiers are a practical guide to which projects make the strongest resume anchors; they are not a formal code-quality score. Prototype and collaborator status is called out where relevant.
+Projects are grouped by system scope, technical integration, completeness, and verifiable evidence. The tiers are a practical guide to resume strength, not a formal code-quality score. Prototype and collaborator status is called out where relevant.
 
-### Tier 1 · Strongest resume anchors
+<details open>
+<summary><strong>Tier 1 · Strongest resume anchors · 4 projects</strong></summary>
 
 | Rank | Project | Scope and evidence |
 | --- | --- | --- |
@@ -28,7 +50,10 @@ Projects are ranked within tiers by system scope, technical integration, complet
 | 3 | [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class ResNet-18 study with saved checkpoint, research paper, and official test-split results: 66.08% top-1 accuracy and 64.92% macro F1 · Python, PyTorch |
 | 4 | [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local voice-assistant prototype connecting speech recognition, Ollama actions, FastAPI/WebSocket events, and a React/Electron dashboard · Python, JavaScript |
 
-### Tier 2 · Broad systems and specialist builds
+</details>
+
+<details>
+<summary><strong>Tier 2 · Broad systems and specialist builds · 6 projects</strong></summary>
 
 | Rank | Project | Scope and evidence |
 | --- | --- | --- |
@@ -39,7 +64,10 @@ Projects are ranked within tiers by system scope, technical integration, complet
 | 5 | [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo](https://damnsunnyy.github.io/SiteSentry/) | Explainable HTML accessibility/discoverability audits with crawl and portable HTML/JSON reports · Python |
 | 6 | [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard](https://damnsunnyy.github.io/RunScope/) | Public GitHub Actions metrics dashboard with workflow breakdowns, export, and six metric tests · JavaScript, GitHub REST API |
 
-### Tier 3 · Focused applications and tools
+</details>
+
+<details>
+<summary><strong>Tier 3 · Focused applications and tools · 7 projects</strong></summary>
 
 | Rank | Project | Scope and evidence |
 | --- | --- | --- |
@@ -51,27 +79,23 @@ Projects are ranked within tiers by system scope, technical integration, complet
 | 6 | [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | React catalog with search, genre filters, detail views, and browser-persistent watchlist |
 | 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Dark animated portfolio with dimensional project previews, live captures, and automated GitHub Pages deployment |
 
-## Explore live projects
+</details>
 
-- [Interactive 3D Buildroom](https://damnsunnyy.github.io/Portfolio/buildroom/)
-- [Apply Desk](https://damnsunnyy.github.io/ApplyDesk/)
-- [RunScope](https://damnsunnyy.github.io/RunScope/)
-- [ModelBench](https://damnsunnyy.github.io/ModelBench/)
-- [SiteSentry](https://damnsunnyy.github.io/SiteSentry/)
-- [RepoRadar](https://damnsunnyy.github.io/RepoRadar/)
-- [HTML DOM Visualizer](https://damnsunnyy.github.io/HTML-DOM-Visualizer/)
-- [Todo browser demo](https://damnsunnyy.github.io/TODO-APP/)
-- [StreamBox Catalog](https://damnsunnyy.github.io/react-streaming-catalog/)
-
-## Tools I use
+<details open>
+<summary><strong>Tools I use</strong></summary>
 
 `JavaScript` · `Python` · `Java` · `React` · `Django REST` · `FastAPI` · `PyTorch` · `scikit-learn` · `SwiftUI` · `Firebase` · `Supabase` · `GitHub Actions` · `REST APIs`
 
-## Find me
+</details>
+
+<details>
+<summary><strong>Find me</strong></summary>
 
 - [Portfolio](https://damnsunnyy.github.io/Portfolio/)
 - [GitHub repositories](https://github.com/damnsunnyy?tab=repositories)
 - [LinkedIn](https://linkedin.com/in/shubham-meghani/)
 - [Email](mailto:shubham.meghani.work@gmail.com)
+
+</details>
 
 <div align="center"><sub>Build across disciplines · show the evidence · keep learning</sub></div>
