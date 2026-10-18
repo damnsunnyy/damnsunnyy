@@ -1,42 +1,71 @@
 <div align="center">
   <a href="https://damnsunnyy.github.io/Portfolio/buildroom/">
-    <img src="assets/buildroom-preview.svg" alt="Enter Buildroom, Shubham Meghani’s interactive CSS 3D DevOps project room, with a rotatable release pipeline and live GitHub Actions signals." width="100%" />
+    <img src="assets/buildroom-preview.svg" alt="Enter Buildroom, Shubham Meghani’s interactive CSS 3D project space featuring full-stack, AI, machine learning, mobile, and developer-tool projects." width="100%" />
   </a>
   <br />
   <a href="https://damnsunnyy.github.io/Portfolio/buildroom/"><strong>↗ ENTER THE INTERACTIVE 3D BUILDROOM</strong></a>
-  <br /><sub>Drag the release loop · open real demos · inspect public workflow history</sub>
+  <br /><sub>Rotate the project map · open live demos · inspect source and workflow signals</sub>
 </div>
 
-## Shubham Meghani · DevOps / CI/CD
+## Shubham Meghani · Software Developer
 
-MCA candidate in Pune building a hands-on DevOps foundation through GitHub Actions, CI/CD, release visibility, and dependable web delivery. I bring two months of client-focused web design experience and am looking for entry-level DevOps, CI/CD, or cloud operations opportunities.
+MCA candidate in Pune building across full-stack applications, applied machine learning, developer tools, and iOS prototypes. I bring two months of client-focused web design experience and enjoy taking ideas from a clear problem to a working, documented project.
 
 **[Portfolio](https://damnsunnyy.github.io/Portfolio/)** · **[Resume](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf)** · **[Email](mailto:shubham.meghani.work@gmail.com)** · **[LinkedIn](https://linkedin.com/in/shubham-meghani/)**
 
-The Buildroom is an original, interactive CSS 3D project map. Its workflow panel reads the latest public GitHub Actions runs when opened. GitHub displays the linked artwork as a static preview; click it to enter the rotatable version.
+The Buildroom is an original, interactive CSS 3D project map. GitHub shows its linked artwork as a static preview; click it to enter the rotatable version. Its workflow panel reads recent public GitHub Actions runs.
 
-## Projects in the delivery loop
+## Project strength and complexity
 
-| Project | What it does | Stack and evidence |
+Projects are ranked within tiers by system scope, technical integration, completeness, and verifiable evidence. The tiers are a practical guide to which projects make the strongest resume anchors; they are not a formal code-quality score. Prototype and collaborator status is called out where relevant.
+
+### Tier 1 · Strongest resume anchors
+
+| Rank | Project | Scope and evidence |
 | --- | --- | --- |
-| [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard](https://damnsunnyy.github.io/RunScope/) | Read-only health dashboard for public GitHub Actions workflows, run duration, and failure patterns | JavaScript, GitHub REST API, GitHub Actions, six metric tests |
-| [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Responsive portfolio with an automated Pages build and deploy workflow | GitHub Actions, Node.js, GitHub Pages |
-| [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | Searchable film catalog with a browser-persistent watchlist | React, Vite, GitHub Actions |
-| [Todo App](https://github.com/damnsunnyy/TODO-APP) · [Live demo](https://damnsunnyy.github.io/TODO-APP/) | Local browser demo plus a Django REST and SQLite API for local setup | React, Vite, Django REST Framework, SQLite |
-| [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app](https://damnsunnyy.github.io/ApplyDesk/) | Private job-search workspace for roles, tailored résumés, and application tracking | JavaScript, Supabase, Gmail API |
-| [RepoRadar](https://github.com/damnsunnyy/RepoRadar) · [Live demo](https://damnsunnyy.github.io/RepoRadar/) | Searchable map of public GitHub repositories, languages, and stars | JavaScript, GitHub REST API |
-| [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo](https://damnsunnyy.github.io/SiteSentry/) | Explainable accessibility and discoverability checks for supplied HTML | Python, HTML parser |
-| [ModelBench](https://github.com/damnsunnyy/ModelBench) · [Live demo](https://damnsunnyy.github.io/ModelBench/) | Browser-based tabular ML experiments with local data and reproducible reports | Python, JavaScript, scikit-learn |
-| [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) · [Live demo](https://damnsunnyy.github.io/HTML-DOM-Visualizer/) | Custom HTML parser and searchable DOM tree | JavaScript |
-| [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class image classifier; 66.08% top-1 accuracy on the official test split (single-run baseline) | Python, PyTorch, ResNet-18 |
-| [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local-first voice-assistant prototype with speech recognition and a local LLM | Python, FastAPI, React, Electron |
-| [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | In-progress iOS prototype for code-based motorcycle group rides | SwiftUI, Firebase, Core Location, MapKit |
-| [InsightX](https://github.com/Shubham01-shubh/InsightX) | Collaborator project for exploring and cleaning CSV datasets | React, Django REST |
-| [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory; requires a configured API and MongoDB | React, Express, MongoDB |
+| 1 | [ModelBench](https://github.com/damnsunnyy/ModelBench) · [Live lab](https://damnsunnyy.github.io/ModelBench/) | Local-first tabular ML workflow with leakage-safe preprocessing, model comparisons, cross-validation, and portable reports · Python, scikit-learn, JavaScript |
+| 2 | [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app](https://damnsunnyy.github.io/ApplyDesk/) | Role discovery, résumé preparation, and application tracking with account-scoped data and optional email signals · JavaScript, Supabase, Gmail API |
+| 3 | [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class ResNet-18 study with saved checkpoint, research paper, and official test-split results: 66.08% top-1 accuracy and 64.92% macro F1 · Python, PyTorch |
+| 4 | [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local voice-assistant prototype connecting speech recognition, Ollama actions, FastAPI/WebSocket events, and a React/Electron dashboard · Python, JavaScript |
 
-## Tools I’m practicing
+### Tier 2 · Broad systems and specialist builds
 
-`Git` · `GitHub Actions` · `CI/CD` · `Node.js` · `JavaScript` · `Python`  · `REST APIs` · `React` · `Django REST` · `PyTorch` · `Java` · `MongoDB`
+| Rank | Project | Scope and evidence |
+| --- | --- | --- |
+| 1 | [InsightX](https://github.com/Shubham01-shubh/InsightX) | **Collaborator project.** Browser-based CSV/JSON cleaning, profiling, charting, and export workspace · React, Django REST |
+| 2 | [DocsFlow](https://github.com/damnsunnyy/google-docs-clone) | Collaborative rich-text document editor with authentication, Socket.IO sync, and document export · MERN, TipTap |
+| 3 | [Prime Video Clone](https://github.com/damnsunnyy/amazon-prime-video-clone) | Django streaming application with accounts, catalog, search, watchlists, ratings, history, playback, and tests · Python, Django |
+| 4 | [RoadTrip](https://github.com/damnsunnyy/RoadTrip) | **In-progress iOS prototype.** Invite-code group rides with Firestore state and MapKit/location foundations · SwiftUI, Firebase |
+| 5 | [SiteSentry](https://github.com/damnsunnyy/SiteSentry) · [Live demo](https://damnsunnyy.github.io/SiteSentry/) | Explainable HTML accessibility/discoverability audits with crawl and portable HTML/JSON reports · Python |
+| 6 | [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard](https://damnsunnyy.github.io/RunScope/) | Public GitHub Actions metrics dashboard with workflow breakdowns, export, and six metric tests · JavaScript, GitHub REST API |
+
+### Tier 3 · Focused applications and tools
+
+| Rank | Project | Scope and evidence |
+| --- | --- | --- |
+| 1 | [HTML DOM Visualizer](https://github.com/damnsunnyy/HTML-DOM-Visualizer) · [Live demo](https://damnsunnyy.github.io/HTML-DOM-Visualizer/) | Dependency-free custom HTML parser with searchable tree and JSON export · JavaScript |
+| 2 | [RepoRadar](https://github.com/damnsunnyy/RepoRadar) · [Live demo](https://damnsunnyy.github.io/RepoRadar/) | Searchable public GitHub profile explorer with language mix, filters, and sortable repository map · JavaScript, GitHub REST API |
+| 3 | [Resume ATS](https://github.com/damnsunnyy/resume_ats) | Java resume screening and candidate ranking application |
+| 4 | [Student Management System](https://github.com/damnsunnyy/StudentManagementSystem) | MERN student directory with search, filters, CRUD, and export; run requires configured API and MongoDB |
+| 5 | [Full-Stack Todo App](https://github.com/damnsunnyy/TODO-APP) · [Live browser demo](https://damnsunnyy.github.io/TODO-APP/) | React task interface with Django REST and SQLite source setup |
+| 6 | [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | React catalog with search, genre filters, detail views, and browser-persistent watchlist |
+| 7 | [Portfolio](https://github.com/damnsunnyy/Portfolio) · [Live site](https://damnsunnyy.github.io/Portfolio/) | Interactive portfolio with 3D keyboard, live project captures, and automated GitHub Pages deployment |
+
+## Explore live projects
+
+- [Interactive 3D Buildroom](https://damnsunnyy.github.io/Portfolio/buildroom/)
+- [Apply Desk](https://damnsunnyy.github.io/ApplyDesk/)
+- [RunScope](https://damnsunnyy.github.io/RunScope/)
+- [ModelBench](https://damnsunnyy.github.io/ModelBench/)
+- [SiteSentry](https://damnsunnyy.github.io/SiteSentry/)
+- [RepoRadar](https://damnsunnyy.github.io/RepoRadar/)
+- [HTML DOM Visualizer](https://damnsunnyy.github.io/HTML-DOM-Visualizer/)
+- [Todo browser demo](https://damnsunnyy.github.io/TODO-APP/)
+- [StreamBox Catalog](https://damnsunnyy.github.io/react-streaming-catalog/)
+
+## Tools I use
+
+`JavaScript` · `Python` · `Java` · `React` · `Django REST` · `FastAPI` · `PyTorch` · `scikit-learn` · `SwiftUI` · `Firebase` · `Supabase` · `GitHub Actions` · `REST APIs`
 
 ## Find me
 
@@ -45,4 +74,4 @@ The Buildroom is an original, interactive CSS 3D project map. Its workflow panel
 - [LinkedIn](https://linkedin.com/in/shubham-meghani/)
 - [Email](mailto:shubham.meghani.work@gmail.com)
 
-<div align="center"><sub>Build clearly · ship carefully · learn in public</sub></div>
+<div align="center"><sub>Build across disciplines · show the evidence · keep learning</sub></div>
