@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
-  <title id="title">Shubham Meghani — Apply Desk in orbit</title>
-  <desc id="desc">An animated dark violet and mint project banner. A dimensional Apply Desk workspace connects three steps: discover roles, prepare a résumé, and track applications. Click the banner to open the portfolio.</desc>
+  <title id="title">Shubham Meghani — selected projects in orbit</title>
+  <desc id="desc">An animated dark violet and mint project map linking selected work across applied machine learning, local AI, full-stack software, and developer tools. Click the banner to open the portfolio.</desc>
   <defs>
     <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b0e17"/><stop offset=".56" stop-color="#101423"/><stop offset="1" stop-color="#111b25"/></linearGradient>
     <linearGradient id="panel" x2=".9" y2="1"><stop stop-color="#1a2131"/><stop offset="1" stop-color="#0c111b"/></linearGradient>
@@ -31,87 +31,66 @@
     <text x="72" y="222" fill="#b7a1ff" font-size="58" font-weight="700" letter-spacing="-2.9">MAKE IT CONNECT.</text>
     <text x="76" y="266" fill="#a4b0c4" font-family="monospace" font-size="11" letter-spacing="1.2">FULL-STACK · APPLIED ML · LOCAL AI · DEVELOPER TOOLS</text>
   </g>
-  <g transform="translate(76 309)">
+  <g transform="translate(76 309)" font-family="monospace">
     <rect width="258" height="56" rx="8" fill="#161d2a" stroke="#9a83ef" stroke-opacity=".46"/>
-    <path d="M20 17h16v2H20zm0 8h9v2h-9z" fill="#85e7d0"/>
-    <text x="49" y="25" fill="#d6deeb" font-family="monospace" font-size="9" letter-spacing="1">FEATURED SYSTEM</text>
-    <text x="49" y="43" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">Apply Desk</text>
-    <circle cx="232" cy="28" r="5" fill="#85e7d0"><animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="25" cy="28" r="13" fill="#85e7d015" stroke="#85e7d055"/>
+    <path d="M19 28h12M25 22v12" stroke="#85e7d0" stroke-width="1.2"/>
+    <text x="49" y="25" fill="#d6deeb" font-size="9" letter-spacing="1">SELECTED WORK</text>
+    <text x="49" y="43" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">10 builds · 4 fields</text>
   </g>
-  <text x="76" y="405" fill="#8390a5" font-family="monospace" font-size="9" letter-spacing="1.2">ONE FLOW FROM FIRST SEARCH TO NEXT STEP</text>
+  <text x="76" y="405" fill="#8390a5" font-family="monospace" font-size="9" letter-spacing="1.2">MANY DIRECTIONS · ONE CRAFT</text>
   <text x="76" y="440" fill="#5f6e83" font-family="monospace" font-size="8" letter-spacing="1.4">PORTFOLIO · SELECTED WORK · LIVE BUILDS</text>
 
-  <!-- elliptical signal paths behind the glass interface -->
+  <!-- dimensional project map -->
   <g fill="none">
-    <ellipse cx="1060" cy="240" rx="353" ry="144" stroke="#a78bfa" stroke-opacity=".3" transform="rotate(-17 1060 240)"/>
-    <ellipse cx="1060" cy="240" rx="315" ry="189" stroke="#72d8d0" stroke-opacity=".2" transform="rotate(21 1060 240)"/>
-    <path d="M729 255C821 119 1222 114 1385 238" stroke="#85e7d0" stroke-opacity=".35" stroke-dasharray="3 8"/>
+    <ellipse cx="1060" cy="244" rx="353" ry="146" stroke="#a78bfa" stroke-opacity=".28" transform="rotate(-17 1060 244)"/>
+    <ellipse cx="1060" cy="244" rx="315" ry="190" stroke="#72d8d0" stroke-opacity=".18" transform="rotate(21 1060 244)"/>
+    <path d="M743 242C836 125 1221 120 1375 242" stroke="#85e7d0" stroke-opacity=".35" stroke-dasharray="3 8"/>
+    <path d="M743 242C842 362 1225 368 1375 242" stroke="#b7a1ff" stroke-opacity=".3" stroke-dasharray="3 8"/>
   </g>
-  <circle r="4" fill="#85e7d0" filter="url(#soft)"><animateMotion dur="16s" repeatCount="indefinite" path="M729 255C821 119 1222 114 1385 238"/></circle>
-  <circle r="3" fill="#a78bfa"><animateMotion dur="22s" repeatCount="indefinite" path="M1385 238C1250 387 841 378 729 255"/></circle>
+  <circle r="4" fill="#85e7d0" filter="url(#soft)"><animateMotion dur="16s" repeatCount="indefinite" path="M743 242C836 125 1221 120 1375 242"/></circle>
+  <circle r="3" fill="#a78bfa"><animateMotion dur="21s" repeatCount="indefinite" path="M743 242C842 362 1225 368 1375 242"/></circle>
 
-  <!-- dimensional product interface -->
   <g filter="url(#shadow)">
-    <rect x="770" y="86" width="590" height="317" rx="12" fill="url(#panel)" stroke="#b09aff" stroke-opacity=".78" stroke-width="1.4"/>
-    <path d="M782 87h566a12 12 0 0 1 12 12v30H770V99a12 12 0 0 1 12-12" fill="#171d2b"/>
+    <rect x="770" y="86" width="590" height="317" rx="12" fill="url(#panel)" stroke="#b09aff" stroke-opacity=".72" stroke-width="1.4"/>
+    <path d="M782 87h566a12 12 0 0 1 12 12v34H770V99a12 12 0 0 1 12-12" fill="#171d2b"/>
     <circle cx="792" cy="108" r="4" fill="#ff7388"/><circle cx="807" cy="108" r="4" fill="#efc46e"/><circle cx="822" cy="108" r="4" fill="#70dfb6"/>
-    <text x="841" y="112" fill="#9ba7bc" font-family="monospace" font-size="8" letter-spacing="1.1">APPLY DESK <tspan fill="#85e7d0">/ CAREER OS</tspan></text>
-    <rect x="1260" y="100" width="81" height="18" rx="9" fill="#85e7d014" stroke="#85e7d044"/>
-    <circle cx="1273" cy="109" r="3" fill="#85e7d0"><animate attributeName="opacity" values=".5;1;.5" dur="2s" repeatCount="indefinite"/></circle>
-    <text x="1282" y="112" fill="#9be9d5" font-family="monospace" font-size="7" letter-spacing=".7">LIVE DEMO</text>
-
-    <rect x="786" y="130" width="123" height="257" rx="4" fill="#101621"/>
-    <text x="802" y="153" fill="#e3e8f3" font-family="Arial,sans-serif" font-size="11" font-weight="700">Your workspace</text>
-    <g font-family="monospace" font-size="8">
-      <rect x="797" y="168" width="101" height="25" rx="5" fill="#a78bfa20" stroke="#a78bfa50"/>
-      <circle cx="811" cy="180" r="4" fill="#b7a1ff"/><text x="823" y="183" fill="#eee9ff">Overview</text>
-      <circle cx="811" cy="214" r="4" fill="#85e7d0"/><text x="823" y="217" fill="#9eacc0">Find roles</text>
-      <circle cx="811" cy="248" r="4" fill="#85e7d0"/><text x="823" y="251" fill="#9eacc0">My résumé</text>
-      <circle cx="811" cy="282" r="4" fill="#85e7d0"/><text x="823" y="285" fill="#9eacc0">Applications</text>
-      <circle cx="811" cy="316" r="4" fill="#85e7d0"/><text x="823" y="319" fill="#9eacc0">Shortlist</text>
-    </g>
-    <rect x="797" y="350" width="101" height="24" rx="5" fill="#1d2835"/>
-    <circle cx="811" cy="362" r="6" fill="url(#mint)"/><text x="823" y="365" fill="#c5d1e0" font-family="monospace" font-size="7">YOUR SPACE</text>
-
-    <text x="931" y="159" fill="#85e7d0" font-family="monospace" font-size="7" letter-spacing="1.2">YOUR JOB SEARCH, IN ONE PLACE</text>
-    <text x="931" y="188" fill="#eef1f8" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.7">Good work starts with</text>
-    <text x="931" y="213" fill="#b7a1ff" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.7">a clear next step.</text>
-    <rect x="931" y="231" width="282" height="27" rx="5" fill="#0a1019" stroke="#384257"/>
-    <circle cx="946" cy="244" r="4" fill="none" stroke="#8d9ab0"/><path d="m949 247 4 4" stroke="#8d9ab0"/>
-    <text x="962" y="247" fill="#7e8ba0" font-family="monospace" font-size="8">SEARCH ROLE, SKILL, OR COMPANY</text>
-    <rect x="1222" y="231" width="119" height="27" rx="5" fill="#a78bfa"/>
-    <text x="1245" y="248" fill="#171326" font-family="monospace" font-size="8" font-weight="700">FIND A ROLE ↗</text>
+    <text x="841" y="112" fill="#c7d1e2" font-family="monospace" font-size="8" letter-spacing="1.1">SELECTED PROJECTS <tspan fill="#85e7d0">/ 2026</tspan></text>
+    <rect x="1281" y="100" width="61" height="18" rx="9" fill="#85e7d014" stroke="#85e7d044"/>
+    <circle cx="1293" cy="109" r="3" fill="#85e7d0"><animate attributeName="opacity" values=".5;1;.5" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="1302" y="112" fill="#9be9d5" font-family="monospace" font-size="7" letter-spacing=".5">LIVE</text>
+    <text x="808" y="166" fill="#8492a8" font-family="monospace" font-size="8" letter-spacing="1.4">A FEW DIRECTIONS FROM THE WORK</text>
 
     <g font-family="monospace">
-      <rect x="931" y="275" width="125" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
-      <text x="944" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">SAVED ROLES</text>
-      <text x="944" y="327" fill="#edf1fa" font-family="Arial,sans-serif" font-weight="700" font-size="17">SHORTLIST</text>
-      <path d="M944 341h93" stroke="#85e7d0" stroke-opacity=".7" stroke-width="2"/>
-      <circle cx="944" cy="341" r="3" fill="#85e7d0"/><circle cx="989" cy="341" r="3" fill="#85e7d0"/><circle cx="1037" cy="341" r="3" fill="#85e7d0"/>
-      <rect x="1068" y="275" width="125" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
-      <text x="1081" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">IN PROGRESS</text>
-      <text x="1081" y="326" fill="#edf1fa" font-family="Arial,sans-serif" font-weight="700" font-size="17">PIPELINE</text>
-      <text x="1081" y="342" fill="#aeb9cc" font-size="6">SAVED · APPLIED · INTERVIEW</text>
-      <path d="M1081 350h96" stroke="#b7a1ff" stroke-width="2" stroke-dasharray="12 5 22 5 12"/>
-      <rect x="1205" y="275" width="136" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
-      <text x="1218" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">NEXT ACTION</text>
-      <circle cx="1227" cy="324" r="8" fill="#f0c36c20"/><path d="m1223 324 3 3 5-6" fill="none" stroke="#f0c36c"/>
-      <text x="1241" y="323" fill="#e4e9f2" font-size="8">Prepare résumé</text><text x="1241" y="337" fill="#8d9ab0" font-size="7">For a selected role</text>
-    </g>
-    <text x="931" y="380" fill="#76849a" font-family="monospace" font-size="7" letter-spacing=".9">DISCOVER <tspan fill="#a78bfa">/</tspan> PREPARE <tspan fill="#85e7d0">/</tspan> TRACK</text>
-  </g>
+      <rect x="808" y="188" width="247" height="77" rx="7" fill="#141c29" stroke="#85e7d055"/>
+      <circle cx="833" cy="226" r="13" fill="#85e7d018"/><text x="825" y="229" fill="#85e7d0" font-size="7">01</text>
+      <text x="856" y="220" fill="#f0f2fa" font-size="10" letter-spacing=".7">MODELBENCH</text><text x="856" y="238" fill="#94a2b7" font-size="8">APPLIED MACHINE LEARNING</text>
+      <path d="M1031 226h13m-4-4 4 4-4 4" fill="none" stroke="#85e7d0"/>
 
-  <g font-family="monospace" font-size="8" letter-spacing=".6">
-    <rect x="774" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#85e7d05c"/>
-    <circle cx="791" cy="445" r="8" fill="#85e7d019"/><text x="788" y="448" fill="#85e7d0" font-size="7">01</text>
-    <text x="807" y="443" fill="#e7edf7">DISCOVER</text><text x="807" y="455" fill="#8593a9" font-size="6">roles that fit</text>
-    <path d="M956 445h33" stroke="#728097" stroke-dasharray="3 4"/><path d="m986 441 5 4-5 4" fill="none" stroke="#85e7d0"/>
-    <rect x="1000" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#a78bfa66"/>
-    <circle cx="1017" cy="445" r="8" fill="#a78bfa1c"/><text x="1014" y="448" fill="#b7a1ff" font-size="7">02</text>
-    <text x="1033" y="443" fill="#e7edf7">PREPARE</text><text x="1033" y="455" fill="#8593a9" font-size="6">your résumé</text>
-    <path d="M1182 445h30" stroke="#728097" stroke-dasharray="3 4"/><path d="m1209 441 5 4-5 4" fill="none" stroke="#85e7d0"/>
-    <rect x="1225" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#f0c36c66"/>
-    <circle cx="1242" cy="445" r="8" fill="#f0c36c1a"/><text x="1239" y="448" fill="#f0c36c" font-size="7">03</text>
-    <text x="1258" y="443" fill="#e7edf7">TRACK</text><text x="1258" y="455" fill="#8593a9" font-size="6">every signal</text>
+      <rect x="1074" y="188" width="247" height="77" rx="7" fill="#141c29" stroke="#b7a1ff55"/>
+      <circle cx="1099" cy="226" r="13" fill="#b7a1ff18"/><text x="1091" y="229" fill="#b7a1ff" font-size="7">02</text>
+      <text x="1122" y="220" fill="#f0f2fa" font-size="10" letter-spacing=".7">SANA / ECHO</text><text x="1122" y="238" fill="#94a2b7" font-size="8">LOCAL AI · VOICE SYSTEMS</text>
+      <path d="M1297 226h13m-4-4 4 4-4 4" fill="none" stroke="#b7a1ff"/>
+
+      <rect x="808" y="282" width="247" height="77" rx="7" fill="#141c29" stroke="#f0c36c55"/>
+      <circle cx="833" cy="320" r="13" fill="#f0c36c18"/><text x="825" y="323" fill="#f0c36c" font-size="7">03</text>
+      <text x="856" y="314" fill="#f0f2fa" font-size="10" letter-spacing=".7">DOCSFLOW</text><text x="856" y="332" fill="#94a2b7" font-size="8">FULL-STACK COLLABORATION</text>
+      <path d="M1031 320h13m-4-4 4 4-4 4" fill="none" stroke="#f0c36c"/>
+
+      <rect x="1074" y="282" width="247" height="77" rx="7" fill="#141c29" stroke="#82c8ff55"/>
+      <circle cx="1099" cy="320" r="13" fill="#82c8ff18"/><text x="1091" y="323" fill="#82c8ff" font-size="7">04</text>
+      <text x="1122" y="314" fill="#f0f2fa" font-size="10" letter-spacing=".7">SITESENTRY</text><text x="1122" y="332" fill="#94a2b7" font-size="8">DEVELOPER TOOLS · AUDITS</text>
+      <path d="M1297 320h13m-4-4 4 4-4 4" fill="none" stroke="#82c8ff"/>
+    </g>
+    <text x="808" y="383" fill="#8492a8" font-family="monospace" font-size="7" letter-spacing="1.2">FULL-STACK <tspan fill="#a78bfa">/</tspan> APPLIED ML <tspan fill="#85e7d0">/</tspan> LOCAL AI <tspan fill="#f0c36c">/</tspan> DEVELOPER TOOLS</text>
+  </g>
+  <g font-family="monospace" font-size="8" letter-spacing=".7">
+    <rect x="824" y="426" width="248" height="38" rx="8" fill="#131a27" stroke="#85e7d05c"/>
+    <circle cx="843" cy="445" r="8" fill="#85e7d019"/><text x="840" y="448" fill="#85e7d0" font-size="7">01</text>
+    <text x="859" y="443" fill="#e7edf7">IDEAS</text><text x="859" y="455" fill="#8593a9" font-size="6">start with a clear problem</text>
+    <path d="M1082 445h36" stroke="#728097" stroke-dasharray="3 4"/><path d="m1115 441 5 4-5 4" fill="none" stroke="#85e7d0"/>
+    <rect x="1130" y="426" width="248" height="38" rx="8" fill="#131a27" stroke="#a78bfa66"/>
+    <circle cx="1149" cy="445" r="8" fill="#a78bfa1c"/><text x="1146" y="448" fill="#b7a1ff" font-size="7">02</text>
+    <text x="1165" y="443" fill="#e7edf7">SYSTEMS</text><text x="1165" y="455" fill="#8593a9" font-size="6">make the parts work together</text>
   </g>
 </svg>
