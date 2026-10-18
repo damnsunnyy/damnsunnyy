@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Shubham Meghani — software, data, and machine learning projects" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Shubham Meghani — DevOps, software, data, and machine learning projects" width="100%" />
 </div>
 
 ## Hi, I’m Shubham Meghani
 
-MCA candidate in Pune building across applied machine learning, web development, and iOS. I bring a client-focused approach to project work: clarify the request, coordinate the implementation, and check the details before delivery.
+MCA candidate in Pune building a DevOps foundation through hands-on CI/CD and release health projects, alongside applied ML, web development, and iOS work. My web design internship taught me to clarify requests, coordinate delivery, and check the details before work ships.
 
 **Portfolio:** [damnsunnyy.github.io/Portfolio](https://damnsunnyy.github.io/Portfolio/) · **Resume:** [PDF](https://damnsunnyy.github.io/Portfolio/assets/Shubham-Meghani-Resume-2026.pdf) · **Email:** [shubham.meghani.work@gmail.com](mailto:shubham.meghani.work@gmail.com) · **LinkedIn:** [shubham-meghani](https://linkedin.com/in/shubham-meghani/)
 
@@ -12,6 +12,7 @@ MCA candidate in Pune building across applied machine learning, web development,
 
 | Project | What it does | Built with |
 | --- | --- | --- |
+| [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard](https://damnsunnyy.github.io/RunScope/) | Read-only health dashboard for public GitHub Actions workflows, with run reliability, duration, and failure patterns | JavaScript, GitHub REST API, GitHub Actions, Node.js tests |
 | [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app](https://damnsunnyy.github.io/ApplyDesk/) | Private job-search workspace for finding roles, preparing tailored résumés, tracking applications, and optionally checking Gmail for reply signals | JavaScript, Supabase, Gmail API |
 | [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class image classifier; 66.08% top-1 accuracy and 64.92% macro F1 on the official test split (single-run baseline) | Python, PyTorch, ResNet-18 |
 | [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant prototype with Faster Whisper, Ollama, desktop actions, and a live event dashboard | Python, FastAPI, React, Electron |
@@ -25,7 +26,7 @@ MCA candidate in Pune building across applied machine learning, web development,
 
 ### Tools
 
-`Python` · `PyTorch` · `scikit-learn` · `JavaScript` · `React` · `Django REST` · `Java` · `Node.js` · `MongoDB` · `SwiftUI` · `Firebase` · `Power BI` · `Git`
+`Git` · `GitHub Actions` · `CI/CD` · `JavaScript` · `Node.js` · `Python` · `React` · `Django REST` · `PyTorch` · `scikit-learn` · `Java` · `MongoDB` · `SwiftUI` · `Firebase` · `Power BI`
 
 ### Find me
 
