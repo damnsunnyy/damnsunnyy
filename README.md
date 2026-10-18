@@ -13,6 +13,8 @@ MCA candidate in Pune building a DevOps foundation through hands-on CI/CD and re
 | Project | What it does | Built with |
 | --- | --- | --- |
 | [RunScope](https://github.com/damnsunnyy/RunScope) · [Live dashboard](https://damnsunnyy.github.io/RunScope/) | Read-only health dashboard for public GitHub Actions workflows, with run reliability, duration, and failure patterns | JavaScript, GitHub REST API, GitHub Actions, Node.js tests |
+| [Todo App](https://github.com/damnsunnyy/TODO-APP) · [Live browser demo](https://damnsunnyy.github.io/TODO-APP/) | Task CRUD with local browser storage in the demo and a Django REST + SQLite API for local setup | React, Vite, Django REST Framework, SQLite |
+| [StreamBox Catalog](https://github.com/damnsunnyy/react-streaming-catalog) · [Live demo](https://damnsunnyy.github.io/react-streaming-catalog/) | Searchable film catalog with a persistent browser-local watchlist | React, Vite, GitHub Actions |
 | [Apply Desk](https://github.com/damnsunnyy/ApplyDesk) · [Live app](https://damnsunnyy.github.io/ApplyDesk/) | Private job-search workspace for finding roles, preparing tailored résumés, tracking applications, and optionally checking Gmail for reply signals | JavaScript, Supabase, Gmail API |
 | [Stanford Dog Breed Recognition](https://github.com/damnsunnyy/stanford-dog-breed-recognition) | 120-class image classifier; 66.08% top-1 accuracy and 64.92% macro F1 on the official test split (single-run baseline) | Python, PyTorch, ResNet-18 |
 | [SANA / Echo](https://github.com/damnsunnyy/Echo) | Local-first voice assistant prototype with Faster Whisper, Ollama, desktop actions, and a live event dashboard | Python, FastAPI, React, Electron |
