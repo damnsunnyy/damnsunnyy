@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://damnsunnyy.github.io/Portfolio/">
-    <img src="assets/buildroom-preview.svg" alt="Animated dark 3D project map for Shubham Meghani, featuring full-stack, AI, machine learning, mobile, and developer-tool projects. Click to open the portfolio." width="100%" />
+    <img src="assets/buildroom-preview.svg" alt="Animated dark 3D project banner showing Shubham Meghani’s Apply Desk workspace and its discover, prepare, and track workflow. Click to open the portfolio." width="100%" />
   </a>
   <br />
   <a href="https://damnsunnyy.github.io/Portfolio/buildroom/"><strong>↗ ENTER THE 3D BUILDROOM</strong></a>

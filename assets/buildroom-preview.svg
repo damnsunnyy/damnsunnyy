@@ -1,62 +1,117 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 520" role="img" aria-labelledby="title desc">
-  <title id="title">Shubham Meghani — animated 3D software project map</title>
-  <desc id="desc">Animated dark 3D project map spanning full-stack software, applied machine learning, local AI, and mobile work, with a public workflow signal panel. Click to open the portfolio.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 500" role="img" aria-labelledby="title desc">
+  <title id="title">Shubham Meghani — Apply Desk in orbit</title>
+  <desc id="desc">An animated dark violet and mint project banner. A dimensional Apply Desk workspace connects three steps: discover roles, prepare a résumé, and track applications. Click the banner to open the portfolio.</desc>
   <defs>
-    <linearGradient id="bg" x2="0.9" y2="1"><stop stop-color="#112329"/><stop offset=".52" stop-color="#071115"/><stop offset="1" stop-color="#0b171a"/></linearGradient>
-    <linearGradient id="cube" x2="1" y2="1"><stop stop-color="#2b7863"/><stop offset="1" stop-color="#102e31"/></linearGradient>
-    <linearGradient id="card" x2="0" y2="1"><stop stop-color="#183236"/><stop offset="1" stop-color="#0b171c"/></linearGradient>
-    <radialGradient id="glow"><stop stop-color="#6ce6ba" stop-opacity=".26"/><stop offset="1" stop-color="#6ce6ba" stop-opacity="0"/></radialGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0v34" fill="none" stroke="#74d9c7" stroke-opacity=".11" stroke-width="1"/></pattern>
-    <filter id="shadow" x="-.5" y="-.5" width="2" height="2"><feGaussianBlur stdDeviation="15"/></filter>
+    <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b0e17"/><stop offset=".56" stop-color="#101423"/><stop offset="1" stop-color="#111b25"/></linearGradient>
+    <linearGradient id="panel" x2=".9" y2="1"><stop stop-color="#1a2131"/><stop offset="1" stop-color="#0c111b"/></linearGradient>
+    <linearGradient id="mint" x2="1" y2="1"><stop stop-color="#9af3d8"/><stop offset="1" stop-color="#56cdbb"/></linearGradient>
+    <linearGradient id="violet" x2="1" y2="1"><stop stop-color="#c4b1ff"/><stop offset="1" stop-color="#8c70e8"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#9678f5" stop-opacity=".24"/><stop offset="1" stop-color="#9678f5" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0v32" fill="none" stroke="#c2b5ff" stroke-opacity=".055"/></pattern>
+    <filter id="shadow" x="-.3" y="-.35" width="1.7" height="1.8"><feGaussianBlur in="SourceAlpha" stdDeviation="16"/><feOffset dy="18"/><feComponentTransfer><feFuncA type="linear" slope=".4"/></feComponentTransfer><feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <filter id="soft"><feGaussianBlur stdDeviation="20"/></filter>
   </defs>
-  <rect width="1440" height="520" rx="16" fill="url(#bg)"/>
-  <rect width="1440" height="520" rx="16" fill="url(#grid)" opacity=".48"/>
-  <ellipse cx="660" cy="269" rx="480" ry="330" fill="url(#glow)"/>
-  <path d="M28 74V28h46M1366 28h46v46M28 446v46h46m1292-46v46h-46" fill="none" stroke="#69d8ba" stroke-opacity=".5" stroke-width="2"/>
-  <text x="64" y="66" fill="#83f0c1" font-family="monospace" font-size="12" letter-spacing="3">SHUBHAM MEGHANI / BUILDROOM 001</text>
-  <circle cx="1353" cy="61" r="4" fill="#83f0c1"/><text x="1368" y="65" fill="#9eb5b2" font-family="monospace" font-size="9" letter-spacing="2">SOFTWARE · DATA · PRODUCT</text>
-  <text x="64" y="175" fill="#eff6f2" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-3">BUILD ACROSS.</text>
-  <text x="64" y="239" fill="#83f0c1" font-family="Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-3">CONNECT THE DOTS.</text>
-  <text x="67" y="279" fill="#a1b6b5" font-family="monospace" font-size="11" letter-spacing="1">A ROTATABLE, 3D MAP OF MY PROJECTS</text>
-  <text x="67" y="313" fill="#6e8d8f" font-family="monospace" font-size="9" letter-spacing="1.2">DRAG THE SCENE · INSPECT REAL WORKFLOW SIGNAL</text>
-  <g transform="translate(418 40)">
-    <ellipse cx="327" cy="229" rx="310" ry="132" fill="none" stroke="#66ddc5" stroke-opacity=".34" stroke-width="1.4" transform="rotate(-14 327 229)"/>
-    <ellipse cx="327" cy="229" rx="278" ry="179" fill="none" stroke="#77bcb9" stroke-opacity=".21" stroke-width="1" transform="rotate(22 327 229)"/>
-    <path d="M93 233C178 125 466 119 562 232M180 329c96 64 258 35 330-47" fill="none" stroke="#67dbb9" stroke-opacity=".35" stroke-width="2" stroke-dasharray="5 8"/>
-    <g transform="translate(322 206)" filter="url(#shadow)" opacity=".7"><circle r="91" fill="#5decc3"><animate attributeName="opacity" values=".45;.9;.45" dur="5s" repeatCount="indefinite"/></circle></g>
-    <g transform="translate(326 207)">
-      <animateTransform attributeName="transform" type="translate" values="0 0;0 -7;0 0" dur="6s" repeatCount="indefinite" additive="sum"/>
-      <path d="m0-57 54 29v61L0 62-54 33v-61z" fill="url(#cube)" stroke="#93f4d2" stroke-width="2"/>
-      <path d="M0-57v61m54-32L0 4l-54-32m54 32v58" fill="none" stroke="#9fffe0" stroke-opacity=".8" stroke-width="2"/>
-      <path d="m0-57 54 29L0 4-54-28z" fill="#57b89e" fill-opacity=".2"/>
-      <text x="0" y="-19" fill="#d4fff0" font-family="monospace" font-size="12" font-weight="bold" text-anchor="middle">ML</text>
-      <text x="26" y="27" fill="#d7ff83" font-family="monospace" font-size="10" font-weight="bold" text-anchor="middle">AI</text>
-    </g>
-    <g font-family="monospace" font-size="9" letter-spacing="1">
-      <g transform="translate(143 166)"><rect width="83" height="28" rx="4" fill="#0e2528" stroke="#4aa391"/><circle cx="14" cy="14" r="3" fill="#83f0c1"/><text x="25" y="17" fill="#c1d6d1">APPS</text></g>
-      <g transform="translate(246 79)"><rect width="79" height="28" rx="4" fill="#0e2528" stroke="#4aa391"/><circle cx="14" cy="14" r="3" fill="#83f0c1"/><text x="25" y="17" fill="#c1d6d1">ML</text></g>
-      <g transform="translate(427 122)"><rect width="93" height="28" rx="4" fill="#0e2528" stroke="#4aa391"/><circle cx="14" cy="14" r="3" fill="#83f0c1"/><text x="25" y="17" fill="#c1d6d1">AI</text></g>
-      <g transform="translate(450 277)"><rect width="81" height="28" rx="4" fill="#0e2528" stroke="#4aa391"/><circle cx="14" cy="14" r="3" fill="#83f0c1"/><text x="25" y="17" fill="#c1d6d1">MOBILE</text></g>
-    </g>
-    <g transform="translate(30 86)">
-      <rect width="173" height="106" rx="5" fill="url(#card)" stroke="#466f70"/>
-      <text x="13" y="19" fill="#86a09d" font-family="monospace" font-size="8" letter-spacing="1">01 / FULL-STACK</text><text x="13" y="53" fill="#83f0c1" font-family="monospace" font-size="11">A ↗</text><text x="13" y="74" fill="#eef7f1" font-family="Arial,sans-serif" font-weight="bold" font-size="16">Apply Desk</text><text x="13" y="91" fill="#92a9a5" font-family="monospace" font-size="8">ROLE SEARCH · LIVE</text>
-    </g>
-    <g transform="translate(519 186)">
-      <rect width="173" height="106" rx="5" fill="url(#card)" stroke="#466f70"/>
-      <text x="13" y="19" fill="#86a09d" font-family="monospace" font-size="8" letter-spacing="1">02 / APPLIED ML</text><text x="13" y="53" fill="#71d5e6" font-family="monospace" font-size="11">&lt;/&gt;</text><text x="13" y="74" fill="#eef7f1" font-family="Arial,sans-serif" font-weight="bold" font-size="16">ModelBench</text><text x="13" y="91" fill="#92a9a5" font-family="monospace" font-size="8">MODEL COMPARISON · LIVE</text>
-    </g>
-    <g transform="translate(228 354)">
-      <rect width="173" height="106" rx="5" fill="url(#card)" stroke="#466f70"/>
-      <text x="13" y="19" fill="#86a09d" font-family="monospace" font-size="8" letter-spacing="1">03 / LOCAL AI</text><text x="13" y="53" fill="#e0d993" font-family="monospace" font-size="11">S ▶</text><text x="13" y="74" fill="#eef7f1" font-family="Arial,sans-serif" font-weight="bold" font-size="16">SANA / Echo</text><text x="13" y="91" fill="#92a9a5" font-family="monospace" font-size="8">VOICE ASSISTANT · PROTOTYPE</text>
-    </g>
+
+  <rect width="1440" height="500" rx="18" fill="url(#bg)"/>
+  <rect width="1440" height="500" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1080" cy="248" rx="390" ry="290" fill="url(#glow)"/>
+  <path d="M28 76V28h48M1364 28h48v48M28 424v48h48m1288-48v48h-48" fill="none" stroke="#a78bfa" stroke-opacity=".48" stroke-width="2"/>
+  <g fill="#c8d2e4" opacity=".75">
+    <circle cx="672" cy="98" r="1.5"/><circle cx="708" cy="386" r="1"/><circle cx="141" cy="410" r="1.5"/><circle cx="612" cy="293" r="1"/>
+    <circle cx="1381" cy="156" r="1.5"/><circle cx="556" cy="74" r="1"/><circle cx="752" cy="435" r="1"/><circle cx="378" cy="422" r="1"/>
   </g>
-  <g transform="translate(1161 123)">
-    <rect width="218" height="284" rx="6" fill="#0b171b" stroke="#315157"/>
-    <text x="17" y="27" fill="#83f0c1" font-family="monospace" font-size="9" letter-spacing="1">PUBLIC SIGNAL / GITHUB API</text>
-    <text x="17" y="68" fill="#e7f3ee" font-family="Arial,sans-serif" font-size="22" font-weight="bold">One live engineering</text><text x="17" y="94" fill="#e7f3ee" font-family="Arial,sans-serif" font-size="22" font-weight="bold">signal.</text>
-    <g font-family="monospace" font-size="8"><rect x="14" y="117" width="190" height="41" rx="3" fill="#0d1f22" stroke="#203c40"/><circle cx="27" cy="138" r="3" fill="#83f0c1"/><text x="39" y="135" fill="#d2e1dc">RUNSCOPE</text><text x="39" y="148" fill="#819a99">LATEST · PUBLIC API</text><rect x="14" y="166" width="190" height="41" rx="3" fill="#0d1f22" stroke="#203c40"/><circle cx="27" cy="187" r="3" fill="#83f0c1"/><text x="39" y="184" fill="#d2e1dc">PORTFOLIO</text><text x="39" y="197" fill="#819a99">PAGES · WORKFLOW</text><rect x="14" y="215" width="190" height="41" rx="3" fill="#0d1f22" stroke="#203c40"/><circle cx="27" cy="236" r="3" fill="#83f0c1"/><text x="39" y="233" fill="#d2e1dc">STREAMBOX</text><text x="39" y="246" fill="#819a99">PAGES · WORKFLOW</text></g>
+
+  <g font-family="monospace">
+    <circle cx="72" cy="65" r="4" fill="#85e7d0"><animate attributeName="opacity" values=".45;1;.45" dur="2.8s" repeatCount="indefinite"/></circle>
+    <text x="88" y="69" fill="#bac5d8" font-size="11" letter-spacing="2.1">SHUBHAM MEGHANI <tspan fill="#59677c">/</tspan> SOFTWARE · DATA · AI</text>
   </g>
-  <rect x="64" y="435" width="286" height="38" rx="4" fill="#12322c" stroke="#4aa391"/><text x="84" y="459" fill="#a8ffda" font-family="monospace" font-size="10" letter-spacing="1.2">OPEN THE PORTFOLIO</text><text x="326" y="459" fill="#a8ffda" font-family="monospace" font-size="14">↗</text>
-  <text x="65" y="495" fill="#59787c" font-family="monospace" font-size="8" letter-spacing="1.5">SOFTWARE · DATA · AI · MOBILE · DEVELOPER TOOLS</text>
+
+  <g font-family="Arial,sans-serif">
+    <text x="72" y="162" fill="#f1f3fa" font-size="58" font-weight="700" letter-spacing="-2.9">BUILD ACROSS.</text>
+    <text x="72" y="222" fill="#b7a1ff" font-size="58" font-weight="700" letter-spacing="-2.9">MAKE IT CONNECT.</text>
+    <text x="76" y="266" fill="#a4b0c4" font-family="monospace" font-size="11" letter-spacing="1.2">FULL-STACK · APPLIED ML · LOCAL AI · DEVELOPER TOOLS</text>
+  </g>
+  <g transform="translate(76 309)">
+    <rect width="258" height="56" rx="8" fill="#161d2a" stroke="#9a83ef" stroke-opacity=".46"/>
+    <path d="M20 17h16v2H20zm0 8h9v2h-9z" fill="#85e7d0"/>
+    <text x="49" y="25" fill="#d6deeb" font-family="monospace" font-size="9" letter-spacing="1">FEATURED SYSTEM</text>
+    <text x="49" y="43" fill="#f4f2ff" font-family="Arial,sans-serif" font-size="16" font-weight="700">Apply Desk</text>
+    <circle cx="232" cy="28" r="5" fill="#85e7d0"><animate attributeName="r" values="4;6;4" dur="3s" repeatCount="indefinite"/></circle>
+  </g>
+  <text x="76" y="405" fill="#8390a5" font-family="monospace" font-size="9" letter-spacing="1.2">ONE FLOW FROM FIRST SEARCH TO NEXT STEP</text>
+  <text x="76" y="440" fill="#5f6e83" font-family="monospace" font-size="8" letter-spacing="1.4">PORTFOLIO · SELECTED WORK · LIVE BUILDS</text>
+
+  <!-- elliptical signal paths behind the glass interface -->
+  <g fill="none">
+    <ellipse cx="1060" cy="240" rx="353" ry="144" stroke="#a78bfa" stroke-opacity=".3" transform="rotate(-17 1060 240)"/>
+    <ellipse cx="1060" cy="240" rx="315" ry="189" stroke="#72d8d0" stroke-opacity=".2" transform="rotate(21 1060 240)"/>
+    <path d="M729 255C821 119 1222 114 1385 238" stroke="#85e7d0" stroke-opacity=".35" stroke-dasharray="3 8"/>
+  </g>
+  <circle r="4" fill="#85e7d0" filter="url(#soft)"><animateMotion dur="16s" repeatCount="indefinite" path="M729 255C821 119 1222 114 1385 238"/></circle>
+  <circle r="3" fill="#a78bfa"><animateMotion dur="22s" repeatCount="indefinite" path="M1385 238C1250 387 841 378 729 255"/></circle>
+
+  <!-- dimensional product interface -->
+  <g filter="url(#shadow)">
+    <rect x="770" y="86" width="590" height="317" rx="12" fill="url(#panel)" stroke="#b09aff" stroke-opacity=".78" stroke-width="1.4"/>
+    <path d="M782 87h566a12 12 0 0 1 12 12v30H770V99a12 12 0 0 1 12-12" fill="#171d2b"/>
+    <circle cx="792" cy="108" r="4" fill="#ff7388"/><circle cx="807" cy="108" r="4" fill="#efc46e"/><circle cx="822" cy="108" r="4" fill="#70dfb6"/>
+    <text x="841" y="112" fill="#9ba7bc" font-family="monospace" font-size="8" letter-spacing="1.1">APPLY DESK <tspan fill="#85e7d0">/ CAREER OS</tspan></text>
+    <rect x="1260" y="100" width="81" height="18" rx="9" fill="#85e7d014" stroke="#85e7d044"/>
+    <circle cx="1273" cy="109" r="3" fill="#85e7d0"><animate attributeName="opacity" values=".5;1;.5" dur="2s" repeatCount="indefinite"/></circle>
+    <text x="1282" y="112" fill="#9be9d5" font-family="monospace" font-size="7" letter-spacing=".7">LIVE DEMO</text>
+
+    <rect x="786" y="130" width="123" height="257" rx="4" fill="#101621"/>
+    <text x="802" y="153" fill="#e3e8f3" font-family="Arial,sans-serif" font-size="11" font-weight="700">Your workspace</text>
+    <g font-family="monospace" font-size="8">
+      <rect x="797" y="168" width="101" height="25" rx="5" fill="#a78bfa20" stroke="#a78bfa50"/>
+      <circle cx="811" cy="180" r="4" fill="#b7a1ff"/><text x="823" y="183" fill="#eee9ff">Overview</text>
+      <circle cx="811" cy="214" r="4" fill="#85e7d0"/><text x="823" y="217" fill="#9eacc0">Find roles</text>
+      <circle cx="811" cy="248" r="4" fill="#85e7d0"/><text x="823" y="251" fill="#9eacc0">My résumé</text>
+      <circle cx="811" cy="282" r="4" fill="#85e7d0"/><text x="823" y="285" fill="#9eacc0">Applications</text>
+      <circle cx="811" cy="316" r="4" fill="#85e7d0"/><text x="823" y="319" fill="#9eacc0">Shortlist</text>
+    </g>
+    <rect x="797" y="350" width="101" height="24" rx="5" fill="#1d2835"/>
+    <circle cx="811" cy="362" r="6" fill="url(#mint)"/><text x="823" y="365" fill="#c5d1e0" font-family="monospace" font-size="7">YOUR SPACE</text>
+
+    <text x="931" y="159" fill="#85e7d0" font-family="monospace" font-size="7" letter-spacing="1.2">YOUR JOB SEARCH, IN ONE PLACE</text>
+    <text x="931" y="188" fill="#eef1f8" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.7">Good work starts with</text>
+    <text x="931" y="213" fill="#b7a1ff" font-family="Arial,sans-serif" font-size="23" font-weight="700" letter-spacing="-.7">a clear next step.</text>
+    <rect x="931" y="231" width="282" height="27" rx="5" fill="#0a1019" stroke="#384257"/>
+    <circle cx="946" cy="244" r="4" fill="none" stroke="#8d9ab0"/><path d="m949 247 4 4" stroke="#8d9ab0"/>
+    <text x="962" y="247" fill="#7e8ba0" font-family="monospace" font-size="8">SEARCH ROLE, SKILL, OR COMPANY</text>
+    <rect x="1222" y="231" width="119" height="27" rx="5" fill="#a78bfa"/>
+    <text x="1245" y="248" fill="#171326" font-family="monospace" font-size="8" font-weight="700">FIND A ROLE ↗</text>
+
+    <g font-family="monospace">
+      <rect x="931" y="275" width="125" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
+      <text x="944" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">SAVED ROLES</text>
+      <text x="944" y="327" fill="#edf1fa" font-family="Arial,sans-serif" font-weight="700" font-size="17">SHORTLIST</text>
+      <path d="M944 341h93" stroke="#85e7d0" stroke-opacity=".7" stroke-width="2"/>
+      <circle cx="944" cy="341" r="3" fill="#85e7d0"/><circle cx="989" cy="341" r="3" fill="#85e7d0"/><circle cx="1037" cy="341" r="3" fill="#85e7d0"/>
+      <rect x="1068" y="275" width="125" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
+      <text x="1081" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">IN PROGRESS</text>
+      <text x="1081" y="326" fill="#edf1fa" font-family="Arial,sans-serif" font-weight="700" font-size="17">PIPELINE</text>
+      <text x="1081" y="342" fill="#aeb9cc" font-size="6">SAVED · APPLIED · INTERVIEW</text>
+      <path d="M1081 350h96" stroke="#b7a1ff" stroke-width="2" stroke-dasharray="12 5 22 5 12"/>
+      <rect x="1205" y="275" width="136" height="83" rx="6" fill="#141c29" stroke="#ffffff18"/>
+      <text x="1218" y="294" fill="#98a6bb" font-size="7" letter-spacing=".8">NEXT ACTION</text>
+      <circle cx="1227" cy="324" r="8" fill="#f0c36c20"/><path d="m1223 324 3 3 5-6" fill="none" stroke="#f0c36c"/>
+      <text x="1241" y="323" fill="#e4e9f2" font-size="8">Prepare résumé</text><text x="1241" y="337" fill="#8d9ab0" font-size="7">For a selected role</text>
+    </g>
+    <text x="931" y="380" fill="#76849a" font-family="monospace" font-size="7" letter-spacing=".9">DISCOVER <tspan fill="#a78bfa">/</tspan> PREPARE <tspan fill="#85e7d0">/</tspan> TRACK</text>
+  </g>
+
+  <g font-family="monospace" font-size="8" letter-spacing=".6">
+    <rect x="774" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#85e7d05c"/>
+    <circle cx="791" cy="445" r="8" fill="#85e7d019"/><text x="788" y="448" fill="#85e7d0" font-size="7">01</text>
+    <text x="807" y="443" fill="#e7edf7">DISCOVER</text><text x="807" y="455" fill="#8593a9" font-size="6">roles that fit</text>
+    <path d="M956 445h33" stroke="#728097" stroke-dasharray="3 4"/><path d="m986 441 5 4-5 4" fill="none" stroke="#85e7d0"/>
+    <rect x="1000" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#a78bfa66"/>
+    <circle cx="1017" cy="445" r="8" fill="#a78bfa1c"/><text x="1014" y="448" fill="#b7a1ff" font-size="7">02</text>
+    <text x="1033" y="443" fill="#e7edf7">PREPARE</text><text x="1033" y="455" fill="#8593a9" font-size="6">your résumé</text>
+    <path d="M1182 445h30" stroke="#728097" stroke-dasharray="3 4"/><path d="m1209 441 5 4-5 4" fill="none" stroke="#85e7d0"/>
+    <rect x="1225" y="426" width="175" height="38" rx="8" fill="#131a27" stroke="#f0c36c66"/>
+    <circle cx="1242" cy="445" r="8" fill="#f0c36c1a"/><text x="1239" y="448" fill="#f0c36c" font-size="7">03</text>
+    <text x="1258" y="443" fill="#e7edf7">TRACK</text><text x="1258" y="455" fill="#8593a9" font-size="6">every signal</text>
+  </g>
 </svg>
